@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 good moring
+=======
+good
+>>>>>>> 43bdcc0b4ca94485ec1ca2761aa29d0df07a2eae
